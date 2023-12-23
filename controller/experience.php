@@ -1,5 +1,5 @@
 <?php
-    $path="../data/experience.json";
-    $result=json_decode(file_get_contents($path),true);
+    require_once "../helper/helper.php";
+    $result=read_data("experience");
     print_r($result);
 ?>

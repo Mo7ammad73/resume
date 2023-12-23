@@ -1,5 +1,5 @@
 <?php
-    $path="../data/refrences.json";
-    $result=json_decode(file_get_contents($path),true);
+    require_once "../helper/helper.php";
+    $result=read_data("refrences");
     print_r($result);
 ?>

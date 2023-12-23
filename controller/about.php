@@ -1,5 +1,5 @@
 <?php
-    $path="../data/about.json";
-    $result=json_decode(file_get_contents($path),true);
+    require_once "../helper/helper.php";
+    $result=read_data("about");
     print_r($result);
 ?>
