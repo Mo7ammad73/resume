@@ -1,0 +1,22 @@
+{
+    "refrences":{
+        "item1":{
+            "name":"Aiyana",
+            "title":"CEO / WEBM",
+            "content":" Habitasse venenatis commodo tempor eleifend arcu sociis sollicitudin ante pulvinar ad, est porta cras erat ullamcorper volutpat metus duis platea convallis, tortor primis ac quisque etiam luctus nisl nullam fames. Ligula purus suscipit tempus nascetur curabitur donec nam ullamcorper, laoreet nullam mauris dui aptent facilisis neque elementum ac, risus semper felis parturient fringilla rhoncus eleifend.",
+            "img":"images/reference-image-1.jpg"
+        },
+        "item2":{
+            "name":"Braiden",
+            "title":"CEO / Creativem",
+            "content":"Habitasse venenatis commodo tempor eleifend arcu sociis sollicitudin ante pulvinar ad, est porta cras erat ullamcorper volutpat metus duis platea convallis, tortor primis ac quisque etiam luctus nisl nullam fames. Ligula purus suscipit tempus nascetur curabitur donec nam ullamcorper, laoreet nullam mauris dui aptent facilisis neque elementum ac, risus semper felis parturient fringilla rhoncus eleifend.",
+            "img":"images/reference-image-2.jpg"
+        },
+        "item3":{
+            "name":"Alexander",
+            "title":"CEO / Webnote",
+            "content":"Habitasse venenatis commodo tempor eleifend arcu sociis sollicitudin ante pulvinar ad, est porta cras erat ullamcorper volutpat metus duis platea convallis, tortor primis ac quisque etiam luctus nisl nullam fames. Ligula purus suscipit tempus nascetur curabitur donec nam ullamcorper, laoreet nullam mauris dui aptent facilisis neque elementum ac, risus semper felis parturient fringilla rhoncus eleifend.",
+            "img":"images/reference-image-3.jpg"
+        }
+    }
+}

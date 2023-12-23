@@ -1,0 +1,32 @@
+{
+    "title":"Creative_CV",
+    "fname":"Anthony",
+    "lname":"Barnett",
+    "job":["WebDeveloper", "GraphicDesigner",  "Photographer"],
+    "section":{
+        "about":"About",
+        "skill":"Skill",
+        "portfolio":"Portfolio",
+        "experience":"Experience",
+        "contact":"contact"
+    },
+    "img-profile":"images/anthony.jpg",
+    "social-media":{
+        "item1":{
+            "url":"https://facebook.com",
+            "name":"fa-facebook"
+        },
+        "item2":{
+            "url":"https://twitter.com",
+            "name":"fa-twitter"
+        },
+        "item3":{
+            "url":"https://google-plus.com",
+            "name":"fa-google-plus"
+        },
+        "item4":{
+            "url":"https://instagram.com",
+            "name":"fa-instagram"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "portfolio":{
+
+        "web-development":[
+
+                        ["Recent Project","images/project-1.jpg"],
+                        ["Startup Project","images/project-2.jpg"],
+                        ["Food Order Project","images/project-3.jpg"],
+                        ["Web Advertising Project","images/project-4.jpg"]
+
+                ],
+
+        "graphic-design":[
+
+                        ["Triangle Pattern","images/graphic-design-1.jpg"],
+                        ["Abstract Umbrella","images/graphic-design-2.jpg"],
+                        ["Cube Surface Texture","images/graphic-design-3.jpg"],
+                        ["Abstract Line","images/graphic-design-4.jpg"]
+
+                    ],
+        "Photography":[
+
+                        ["Photoshoot","images/photography-1.jpg"],
+                        ["Wedding Photoshoot","images/photography-3.jpg"],
+                        ["Beach Photoshoot","images/photography-2.jpg"],
+                        ["Nature Photoshoot","images/photography-4.jpg"]
+                        
+                    ]
+
+                }
+                
+}
